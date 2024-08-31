@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">SuperheroApp</string>
+    <string name="title_activity_first_app">SuperheroApp</string>
+
+    //IMC-App
+
+    <string name="male">Hombre</string>
+    <string name="female">Mujer</string>
+    <string name="height">Altura</string>
+    <string name="_120_cm">120 cm</string>
+    <string name="weight">peso</string>
+    <string name="age">edad</string>
+    <string name="calculate">calcular</string>
+    <string name="result">Tu Resultado</string>
+    <string name="recalculate">Recalcular</string>
+    <string name="error">error</string>
+    <string name="bajo_peso">Bajo peso</string>
+    <string name="est_s_por_debajo_de_lo_ptimo_para_tu_altura_y_peso">Estás por debajo de lo óptimo para tu altura y peso</string>
+    <string name="peso_normal">Peso normal</string>
+    <string name="est_s_en_lo_ptimo_para_tu_altura_y_peso">Estás en lo óptimo para tu altura y peso</string>
+    <string name="sobrepeso">Sobrepeso</string>
+    <string name="est_s_por_encima_de_lo_ptimo_para_tu_altura_y_peso">Estás por encima de lo óptimo para tu altura y peso</string>
+    <string name="obesidad">Obesidad</string>
+    <string name="est_s_muy_por_encima_de_lo_ptimo_para_tu_altura_y_peso">Estás muy por encima de lo óptimo para tu altura y peso</string>
+    <string name="saludar_app">Saludar App</string>
+    <string name="imc_app">IMC App</string>
+    <string name="todo_app">TODO App</string>
+    <string name="todo_welcome">bienvenido</string>
+    <string name="todo_categories">Categorías</string>
+    <string name="tasks">tareas</string>
+    <string name="todo_add_task">Añade la tarea</string>
+    <string name="todo_create_task">Crear tarea</string>
+    <string name="business">Negocios</string>
+    <string name="personal">Personal</string>
+    <string name="others">Otros</string>
+    <string name="superhero_app">SuperHero App</string>
+    <string name="g_nero">Género:</string>
+    <string name="raza">Raza:</string>
+    <string name="lugar_de_nacimiento">Lugar de nacimiento:</string>
+    <string name="primera_aparici_n">Primera aparición:</string>
+    <string name="welcome">Bienvenido a la AppSuperheroes donde podrás buscar entre cientos de superhéroes y acceder a una vista detallada de cada uno de ellos</string>
+    <string name="push_button">Pulsa el siguiente botón para comenzar la búsqueda:</string>
+    <string name="search">Buscar</string>
+</resources>
